@@ -1,0 +1,1 @@
+# indeks-grup-dihedral-
