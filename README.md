@@ -1,1 +1,3 @@
-# indeks-grup-dihedral-
+# README
+
+Proyek ini berfokus pada implementasi algoritma untuk menghitung tiga indeks topologi penting dalam teori graf, yaitu First Zagreb Index, Wiener Index, dan Gutman Index, yang diterapkan pada power graph dari grup dihedral 𝐷2n. Dengan menggunakan Python dan pustaka networkx, graf dibangun berdasarkan struktur grup dihedral dan divisibilitas elemen-elemennya. Visualisasi graf dan hasil perhitungan disajikan secara interaktif melalui antarmuka gradio, yang memungkinkan pengguna mengeksplorasi nilai indeks untuk berbagai nilai 𝑛. Proyek ini juga menyertakan visualisasi grafik garis dari ketiga indeks tersebut terhadap variasi nilai 𝑛, guna mendukung analisis pola dan pertumbuhan indeks seiring perubahan ukuran grup.
